@@ -1,0 +1,25 @@
+.container-main{
+    background-color:rgb(30 126 213);
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    height:65px;
+    color:#fff;
+    padding: 0 1%;
+}
+
+.container-main ul{
+    list-style:none;
+    display: flex;
+ 
+
+}
+
+.container-main ul li{
+    padding:0 20px;
+}
+
+.container-main ul li a{
+    text-decoration: none;
+    color:#fff;
+}
